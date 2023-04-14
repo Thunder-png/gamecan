@@ -67,7 +67,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: src("/indir.svg");
+    background-image: url("/indir.svg");
     background-size: 100% 78px;
     height: 70px;
     z-index: 1;
