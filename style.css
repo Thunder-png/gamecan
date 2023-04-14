@@ -68,7 +68,8 @@ body {
     right: 0;
     bottom: 0;
     background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
-    clip-path: polygon(25% 100%, 75% 100%, 100% 50%, 75% 0%, 25% 0%, 0% 50%);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 50% 100%, 0% 90%);
+
 }
 
 video {
